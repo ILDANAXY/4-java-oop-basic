@@ -8,6 +8,8 @@ public class Task01Main {
         Point p2 = new Point();
         p2.x = 78;
         p2.y = 12;
+        Point p3 = new Point(3,7);
+        Point p4 = new Point(-55,23);
 
         System.out.println("Point 1:");
         p1.print();
